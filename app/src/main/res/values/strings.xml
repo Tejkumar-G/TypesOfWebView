@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TypesOfWebView</string>
+    <string name="add_link">Add Link</string>
+    <string name="open_in_webview">Open In WebView</string>
+    <string name="open_custom_webview">Open Custom WebView</string>
+    <string name="open_in_browser">Open In Browser</string>
+</resources>
